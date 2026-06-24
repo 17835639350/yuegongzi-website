@@ -1,0 +1,9 @@
+.glass-surface {
+  transition: all 0.4s ease;
+}
+
+@media (pointer: coarse) {
+  .hero-glow {
+    display: none !important;
+  }
+}
